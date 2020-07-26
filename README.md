@@ -1,6 +1,6 @@
 ```ts
 const bio = {
-  name: 34324.23423423,
+  name: "Néstor Llamas",
   birth: "22 June 1991",
   location: "Barcelona, Spain",
   career: "Telecommunication Engineering",
