@@ -1,4 +1,4 @@
-```json
+```javascript
 {
   "name": "Néstor Llamas",
   "birth": "22 June 1991",
@@ -10,6 +10,7 @@
     "backend": ["Node.js", "Java"],
     "databases": ["PostgreSQL", "MySQL", "MongoDB"],
     "devops": ["Git", "Docker", "GitHub", "GitHub Actions", "Google Cloud", "VPS"]
-  }
+  },
+  "preferredStack": ["React", "Node.js", "PostgreSQL"]
 }
 ```
