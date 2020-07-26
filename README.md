@@ -9,8 +9,10 @@ const bio = {
     frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
     backend: ["Node.js", "Java"],
     databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    systems: ["Windows", "Linux"],
     devops: ["Git", "Docker", "GitHub", "GitHub Actions", "Google Cloud"]
   },
-  preferredStack: ["React", "Node.js", "PostgreSQL"]
+  stack: ["React", "Node.js", "PostgreSQL"],
+  contact: "nestorllamas91@gmail.com"
 }
 ```
