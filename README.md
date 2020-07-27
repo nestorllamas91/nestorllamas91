@@ -1,7 +1,6 @@
 ```ts
 const bio = {
   name: "Néstor Llamas",
-  birth: "22 June 1991",
   location: "Barcelona, Spain",
   career: "Telecommunication Engineering",
   job: "Web Developer",
@@ -12,7 +11,7 @@ const bio = {
     systems: ["Windows", "Linux"],
     devops: ["Git", "Docker", "GitHub", "GitHub Actions", "Google Cloud"]
   },
-  stack: ["React", "Node.js", "PostgreSQL"],
+  stack: ["TypeScript", "React", "Node.js", "PostgreSQL"],
   contact: "nestorllamas91@gmail.com"
 }
 ```
