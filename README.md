@@ -1,6 +1,7 @@
 ```ts
 const bio = {
   name: "Néstor Llamas",
+  email: "nestorllamas91@gmail.com",
   location: "Barcelona, Spain",
   career: "Telecommunication Engineering",
   job: "Web Developer",
@@ -11,7 +12,6 @@ const bio = {
     systems: ["Windows", "Linux"],
     devops: ["Git", "Docker", "GitHub", "GitHub Actions", "Google Cloud"]
   },
-  stack: ["TypeScript", "React", "Node.js", "PostgreSQL"],
-  contact: "nestorllamas91@gmail.com"
+  stack: ["TypeScript", "React", "Node.js", "PostgreSQL"]
 }
 ```
