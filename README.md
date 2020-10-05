@@ -8,10 +8,10 @@ const bio = {
   skills: {
     frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
     backend: ["Node.js", "Java"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    databases: ["MySQL", "MongoDB"],
     systems: ["Windows", "Linux"],
     devops: ["Git", "Docker", "GitHub", "GitHub Actions", "Google Cloud"]
   },
-  stack: ["TypeScript", "React", "Node.js", "PostgreSQL"]
+  stack: ["TypeScript", "React", "Node.js", "MongoDB"]
 }
 ```
