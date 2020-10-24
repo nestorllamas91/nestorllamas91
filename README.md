@@ -11,7 +11,6 @@ const bio = {
     databases: ["MySQL", "MongoDB"],
     systems: ["Windows", "Linux"],
     devops: ["Git", "Docker", "GitHub", "GitHub Actions", "Google Cloud"]
-  },
-  stack: ["TypeScript", "React", "Node.js", "MongoDB"]
+  }
 }
 ```
