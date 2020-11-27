@@ -4,7 +4,7 @@ const bio = {
   email: "nestorllamas91@gmail.com",
   location: "Barcelona, Spain",
   career: "Telecommunication Engineering",
-  job: "Web Developer",
+  job: "Web Development",
   skills: {
     frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
     backend: ["Node.js", "Java"],
