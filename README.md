@@ -7,10 +7,11 @@ const bio = {
   job: "Web Development",
   skills: {
     frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
-    backend: ["Node.js", "Java"],
-    databases: ["MySQL", "MongoDB"],
+    backend: ["Node.js"],
+    databases: ["SQL", "NoSQL"],
+    devops: ["Git", "Docker", "GitHub", "GitHub Actions", "GCP", "Heroku", "DigitalOcean"],
     systems: ["Windows", "Linux"],
-    devops: ["Git", "Docker", "GitHub", "GitHub Actions", "Google Cloud"]
+    others: ["JSON", "UML", "Markdown"]
   }
 }
 ```
