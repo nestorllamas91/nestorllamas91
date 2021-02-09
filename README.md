@@ -11,7 +11,6 @@ const bio = {
     databases: ["SQL", "NoSQL"],
     devops: ["Git", "Docker", "GitHub", "GitHub Actions", "GCP", "Heroku", "DigitalOcean"],
     systems: ["Windows", "Linux"],
-    others: ["JSON", "UML", "Markdown"]
   }
 }
 ```
